@@ -9,10 +9,3 @@ This Streamlit application leverages large language models (LLMs) to query CSV f
 - Generate visualizations such as histograms, bar charts, scatter plots, and line plots based on user queries.
 - Automatically execute Python code blocks returned by the LLM to generate plots.
 
-## Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/MadasuLaxman/Computer_Vision-_Assignment_LLMs)
-   cd your-repo-name
