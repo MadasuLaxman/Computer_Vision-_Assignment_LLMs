@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 # ------------------------------------------------------------------------------------------------------------------
 
-api_key = "AIzaSyARCmZdn4ld4emtSQDDeKjDqhC4EAiyED8"
+api_key = "***************************"
 
 st.title(":rainbow[Querying and Plot Graphs with LLMs]")
 csv_file = st.file_uploader('Load Your CSV File Here...', type=['csv'])
